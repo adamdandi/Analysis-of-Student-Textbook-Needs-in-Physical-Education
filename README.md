@@ -2,7 +2,7 @@
 
 **Analysis Type:** Mixed-methods (Quantitative & Qualitative)
 
-**Tools Used:** SPSS, Atlas.ti
+**Tools Used:** Excel, SPSS, ATLAS.ti
 
 **Completion Date:**  October 20, 2023
 
